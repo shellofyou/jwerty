@@ -1,6 +1,6 @@
 [jwerty](http://keithcirkel.co.uk/jwerty/)
 ======
-##### Awesome handling of keyboard events
+##### Awesome handling of keyboard events 快捷键定义的JS库
 ###### http://keithcirkel.co.uk/jwerty/
 
 jwerty is a JS lib which allows you to bind, fire and assert key combination
